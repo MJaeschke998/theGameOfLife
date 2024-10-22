@@ -6,8 +6,8 @@ from colorama import Fore, Style, init
 pygame.init()
 
 #constants for the game
-width = 50
-height = 50
+width = 25
+height = 25
 cell_size = 20
 dead = 0
 alive = 1
